@@ -4,4 +4,4 @@
 ## GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rimi-dev&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi-dev&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
