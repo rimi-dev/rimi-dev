@@ -9,7 +9,7 @@ I have project experience using Python, Flutter.
 | `MarketDesigners` | 2020.9 - | Back-end Developer | `Python`, `Django`, `MySQL`, `classic ASP`, `SQL SERVER`, `AWS` |
 | `B2Tech` | 2020.3 - 2020.9 | Back-end Developer | `Python`, `Django`, `MySQL`, `AWS` |
 | `SeoulSoft` | 2019.8 - 2020.2 | Back-end Developer | `Python`, `Django`, `MySQL`, `AWS` |
-| `Korea Circuit` | 2016.9 - 2017.11 | Developer | `classic ASP`, `SQL SERVER` |
+| `Korea Circuit` | 2016.9 - 2017.11 | Developer | `classic ASP`, `ASP.NET`, `SQL SERVER` |
 ### 🎨 Languages
 ![](https://img.shields.io/badge/Python-🌟🌟🌟-blue?logo=python&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Dart-🌟🌟🌟-skyblue?logo=dart&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Kotlin-🌟-purple?logo=Kotlin&logoColor=white&style=flat-square)
 
