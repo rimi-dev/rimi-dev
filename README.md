@@ -18,4 +18,4 @@ I have project experience using Python, Flutter.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi-dev&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts
-![https://velog.io/@rimi](https://img.shields.io/badge/Blog-brightgreen?logo=bloglovin&logoColor=white&style=flat-square)
+[![](https://img.shields.io/badge/Blog-brightgreen?logo=bloglovin&logoColor=white&style=flat-square)](https://velog.io/@rimi)
