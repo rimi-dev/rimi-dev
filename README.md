@@ -5,7 +5,7 @@ I have project experience using Python, Flutter.
 
 ### 🏢 Career
 | Organization | Date | Contents | Skill |
-|---|:--:|:---:|---:|
+|---|:--:|:---:|---|
 | `MarketDesigners` | 2020.9 - | Back-end Developer | `Python`, `Django`, `MySQL`, `classic ASP`, `SQL SERVER`, `AWS` |
 | `B2Tech` | 2020.3 - 2020.9 | Back-end Developer | `Python`, `Django`, `MySQL`, `AWS` |
 | `SeoulSoft` | 2019.8 - 2020.2 | Back-end Developer | `Python`, `Django`, `MySQL`, `AWS` |
