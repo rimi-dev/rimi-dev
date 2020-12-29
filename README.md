@@ -13,4 +13,9 @@ I have project experience using Python, Flutter.
 ### 🎨 Languages
 ![](https://img.shields.io/badge/Python-🌟🌟🌟-blue?logo=python&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Dart-🌟🌟🌟-skyblue?logo=dart&logoColor=white&style=flat-square) ![](https://img.shields.io/badge/Kotlin-🌟-purple?logo=Kotlin&logoColor=white&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi-dev&hide=javascript,html,css&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![rimi's github stats](https://github-readme-stats.vercel.app/api?username=rimi-dev&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimi-dev&langs_count=8&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contacts
+![https://velog.io/@rimi](https://img.shields.io/badge/Blog-brightgreen?logo=bloglovin&logoColor=white&style=flat-square)
